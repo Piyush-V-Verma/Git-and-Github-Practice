@@ -22,4 +22,12 @@ Basic GIT Commands
   Untracked -> Staged -> Tracked
   1. git add <filename> - For Untracked to Staged
   2. git rm --cached <filename> - Use to unstaged the file (For Staged to Untracked)
-6. git add.
+  3. git commit -m "Massage" - For Staged to Tracked
+6. git add . - For Untracked to Staged all files
+7. git restore <filename> - To restore deleted file
+
+Basic GitHub Commands
+1. git remote add origin <GitHub Reposetry url> - To get (PAT) Personal Access token to Access reposetry
+2. git remote -v - To check GitHub status in local System
+3. git remote set-url origin https://<github token>@github.com/<github reposetry url without https://github.com/> - To get opration access
+4. git push origin master - To push file on github
