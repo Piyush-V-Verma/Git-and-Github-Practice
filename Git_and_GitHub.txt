@@ -1,0 +1,25 @@
+Basics of Git & GitHub
+{
+# Git (Linus Torwals)
+1. VCS(Version Control System)
+2. Install in Your System (Tool)
+3. Maintain Source code and Records of your code and it's Version.
+4. To check GIT Download (CMD ->git --version)
+5. CLI(Command Lile Interface)
+
+# GitHub
+1. SCM (Source Code Manager)
+2. It is a platform where you Manage your code, Work with Team, Create Reposetry and Find Other Authors
+3. GUI(Graphical User Interface)
+}
+
+Basic GIT Commands
+1. ls <filename> - To get file Info
+2. rm <filename> - To delete file
+3. git init - To initialize an empty Git Reposetry
+4. git status - To get local git reposetry status
+5. stages of file
+  Untracked -> Staged -> Tracked
+  1. git add <filename> - For Untracked to Staged
+  2. git rm --cached <filename> - Use to unstaged the file (For Staged to Untracked)
+6. git add.
