@@ -30,4 +30,7 @@ Basic GitHub Commands
 1. git remote add origin <GitHub Reposetry url> - To get (PAT) Personal Access token to Access reposetry
 2. git remote -v - To check GitHub status in local System
 3. git remote set-url origin https://<github token>@github.com/<github reposetry url without https://github.com/> - To get opration access
-4. git push origin master - To push file on github
+4. git push -u origin main - To push file on github
+5. Fork - To get Others github reposetry in your github
+6. Clone - To get github reposetry in your local system
+   git clone <url>
