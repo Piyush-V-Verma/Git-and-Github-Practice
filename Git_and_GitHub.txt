@@ -34,3 +34,4 @@ Basic GitHub Commands
 5. Fork - To get Others github reposetry in your github
 6. Clone - To get github reposetry in your local system
    git clone <url>
+7. git pull - To get github content on local
